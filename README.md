@@ -1,2 +1,2 @@
 # Contrastive-Sampling
-Contrastive Sampling Chains in Diffusion Models. (NeurIPS 2023)
+The code for "Contrastive Sampling Chains in Diffusion Models" will be released soon.
